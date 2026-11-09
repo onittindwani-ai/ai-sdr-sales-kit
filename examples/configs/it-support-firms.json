@@ -1,0 +1,19 @@
+{
+  "_note": "Synthetic example. A made up agency with no proof yet, so the tool uses the honest fallback line.",
+  "agency_name": "Sample Growth Desk",
+  "your_name": "Priya",
+  "niche": "local IT support firms",
+  "buyer": "founder",
+  "their_customers": "owners of small professional offices",
+  "offer_name": "outbound as a service",
+  "outcome": "first calls with office owners who need IT help",
+  "booked_call": "a first call with an office owner who matches your agreed list and has said what they need",
+  "channels": "email and phone",
+  "setup_time": "3 weeks",
+  "monthly_price": "$1,800 a month",
+  "contract_terms": "month to month with 30 days notice",
+  "report_rhythm": "every second Monday",
+  "approval_step": "you sign off the list and every new message",
+  "data_exit": "you get the full list and all replies in a spreadsheet within 5 working days",
+  "proof_line": ""
+}

@@ -1,0 +1,18 @@
+{
+  "agency_name": "REPLACE: your agency's name",
+  "your_name": "REPLACE: the name you sign emails with",
+  "niche": "REPLACE: who you sell to, as a plural phrase, for example commercial cleaning companies",
+  "buyer": "REPLACE: the person who says yes, as a singular job title, for example owner",
+  "their_customers": "REPLACE: who your clients want to reach, for example office and facility managers",
+  "offer_name": "REPLACE: what you call your service, for example done for you booked calls",
+  "outcome": "REPLACE: the result in plain words, for example booked calls with office and facility managers",
+  "booked_call": "REPLACE: exactly what counts, written to the client, for example a call on your calendar with a decision maker from your target list",
+  "channels": "REPLACE: how you reach people, for example email",
+  "setup_time": "REPLACE: how long until outreach starts, for example 2 weeks",
+  "monthly_price": "REPLACE: your real price, for example the amount per month you charge",
+  "contract_terms": "REPLACE: your real terms, for example month to month",
+  "report_rhythm": "REPLACE: how often you report, for example every Friday",
+  "approval_step": "REPLACE: a clause starting with you and not saying when, for example you approve the target list and the first messages",
+  "data_exit": "REPLACE: a clause starting with you, for example you keep the lead list, the message copy and every reply",
+  "proof_line": ""
+}

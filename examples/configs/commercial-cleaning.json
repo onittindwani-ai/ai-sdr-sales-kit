@@ -1,0 +1,19 @@
+{
+  "_note": "Synthetic example. A made up agency with made up terms, for showing how the tool works.",
+  "agency_name": "Example Outbound Studio",
+  "your_name": "Sam",
+  "niche": "commercial cleaning companies",
+  "buyer": "owner",
+  "their_customers": "office and facility managers",
+  "offer_name": "done for you booked calls",
+  "outcome": "booked calls with office and facility managers",
+  "booked_call": "a call on your calendar with an office or facility manager at a building on your target list",
+  "channels": "email",
+  "setup_time": "2 weeks",
+  "monthly_price": "$2,500 a month",
+  "contract_terms": "a 90 day start, then month to month",
+  "report_rhythm": "every Friday",
+  "approval_step": "you approve the target list and the first messages",
+  "data_exit": "you keep the lead list, the message copy and every reply",
+  "proof_line": "We have run this for 2 cleaning companies so far, and I can show you the messages and the replies."
+}

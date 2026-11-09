@@ -1,0 +1,10 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.zip
+.env
+*.key
+my-config.json
+my-*.json
+output/*
+!output/.gitkeep

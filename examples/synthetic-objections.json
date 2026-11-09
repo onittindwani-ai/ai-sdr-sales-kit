@@ -1,0 +1,406 @@
+{
+  "label": "SYNTHETIC. Made up practice lines, not real customers.",
+  "how_to_use": "Each line is something a prospect might say. 'answer' is the number of the answer that fits it best. 'direct' lines name the objection; 'hidden' lines only hint at it.",
+  "items": [
+    {
+      "id": 1,
+      "answer": 1,
+      "category": "cost-and-setup",
+      "difficulty": "direct",
+      "text": "Salesforce just launched an AI agent for this. Why wouldn't I go with them?",
+      "synthetic": true
+    },
+    {
+      "id": 2,
+      "answer": 1,
+      "category": "cost-and-setup",
+      "difficulty": "hidden",
+      "text": "My brother in law keeps forwarding me articles about Salesforce doing this with AI. He thinks I'd be mad to pay anyone.",
+      "synthetic": true
+    },
+    {
+      "id": 3,
+      "answer": 2,
+      "category": "cost-and-setup",
+      "difficulty": "direct",
+      "text": "HubSpot's thing is a dollar a lead. Your number looks huge next to that.",
+      "synthetic": true
+    },
+    {
+      "id": 4,
+      "answer": 2,
+      "category": "cost-and-setup",
+      "difficulty": "hidden",
+      "text": "I did the maths on a dollar per lead and your monthly fee buys me a lot of leads.",
+      "synthetic": true
+    },
+    {
+      "id": 5,
+      "answer": 3,
+      "category": "cost-and-setup",
+      "difficulty": "direct",
+      "text": "Clay is what all the growth people use. Isn't that the cheaper route?",
+      "synthetic": true
+    },
+    {
+      "id": 6,
+      "answer": 3,
+      "category": "cost-and-setup",
+      "difficulty": "hidden",
+      "text": "A guy in my founder group built his whole outbound in Clay and pays almost nothing.",
+      "synthetic": true
+    },
+    {
+      "id": 7,
+      "answer": 4,
+      "category": "cost-and-setup",
+      "difficulty": "direct",
+      "text": "I'm technical enough. I'll just wire up a tool myself.",
+      "synthetic": true
+    },
+    {
+      "id": 8,
+      "answer": 4,
+      "category": "cost-and-setup",
+      "difficulty": "hidden",
+      "text": "Give me a couple of weekends and a YouTube tutorial and I reckon I'm there.",
+      "synthetic": true
+    },
+    {
+      "id": 9,
+      "answer": 5,
+      "category": "cost-and-setup",
+      "difficulty": "direct",
+      "text": "Surely the software is cheaper than an agency.",
+      "synthetic": true
+    },
+    {
+      "id": 10,
+      "answer": 5,
+      "category": "cost-and-setup",
+      "difficulty": "hidden",
+      "text": "What does Salesforce charge for that agent? I'm guessing it's a fraction of you.",
+      "synthetic": true
+    },
+    {
+      "id": 11,
+      "answer": 6,
+      "category": "who-runs-it",
+      "difficulty": "direct",
+      "text": "I read that the agent handles the deal for weeks. So what's left to do?",
+      "synthetic": true
+    },
+    {
+      "id": 12,
+      "answer": 6,
+      "category": "who-runs-it",
+      "difficulty": "hidden",
+      "text": "From the launch video it looked like you just switch it on and it sells.",
+      "synthetic": true
+    },
+    {
+      "id": 13,
+      "answer": 7,
+      "category": "who-runs-it",
+      "difficulty": "direct",
+      "text": "Our admin could just run this on the side.",
+      "synthetic": true
+    },
+    {
+      "id": 14,
+      "answer": 7,
+      "category": "who-runs-it",
+      "difficulty": "hidden",
+      "text": "Jo has some slow afternoons, we could give her a login and let her get on with it.",
+      "synthetic": true
+    },
+    {
+      "id": 15,
+      "answer": 8,
+      "category": "who-runs-it",
+      "difficulty": "direct",
+      "text": "I'd prefer to hire someone junior and train them up.",
+      "synthetic": true
+    },
+    {
+      "id": 16,
+      "answer": 8,
+      "category": "who-runs-it",
+      "difficulty": "hidden",
+      "text": "There's a graduate I know who needs a job. Wouldn't she do the same thing for less?",
+      "synthetic": true
+    },
+    {
+      "id": 17,
+      "answer": 9,
+      "category": "who-runs-it",
+      "difficulty": "direct",
+      "text": "Can't I do all this with a ChatGPT subscription?",
+      "synthetic": true
+    },
+    {
+      "id": 18,
+      "answer": 9,
+      "category": "who-runs-it",
+      "difficulty": "hidden",
+      "text": "I asked Claude to write me a cold email last night and honestly it was pretty good.",
+      "synthetic": true
+    },
+    {
+      "id": 19,
+      "answer": 10,
+      "category": "who-runs-it",
+      "difficulty": "direct",
+      "text": "If AI writes it, what's your actual job here?",
+      "synthetic": true
+    },
+    {
+      "id": 20,
+      "answer": 10,
+      "category": "who-runs-it",
+      "difficulty": "hidden",
+      "text": "So you press a button and I pay you monthly for that?",
+      "synthetic": true
+    },
+    {
+      "id": 21,
+      "answer": 11,
+      "category": "results-and-trust",
+      "difficulty": "direct",
+      "text": "You're very small. What if you disappear?",
+      "synthetic": true
+    },
+    {
+      "id": 22,
+      "answer": 11,
+      "category": "results-and-trust",
+      "difficulty": "hidden",
+      "text": "Nobody ever got fired for buying from the biggest name, you know.",
+      "synthetic": true
+    },
+    {
+      "id": 23,
+      "answer": 12,
+      "category": "results-and-trust",
+      "difficulty": "direct",
+      "text": "Will you commit to a set number of meetings every month?",
+      "synthetic": true
+    },
+    {
+      "id": 24,
+      "answer": 12,
+      "category": "results-and-trust",
+      "difficulty": "hidden",
+      "text": "I'd sign today if you can tell me I'll definitely get 10 calls.",
+      "synthetic": true
+    },
+    {
+      "id": 25,
+      "answer": 13,
+      "category": "results-and-trust",
+      "difficulty": "direct",
+      "text": "I hate those AI emails and I don't want to send them.",
+      "synthetic": true
+    },
+    {
+      "id": 26,
+      "answer": 13,
+      "category": "results-and-trust",
+      "difficulty": "hidden",
+      "text": "My whole business runs on referrals and being known as the decent ones in town.",
+      "synthetic": true
+    },
+    {
+      "id": 27,
+      "answer": 14,
+      "category": "results-and-trust",
+      "difficulty": "direct",
+      "text": "What if the AI invents something about my company?",
+      "synthetic": true
+    },
+    {
+      "id": 28,
+      "answer": 14,
+      "category": "results-and-trust",
+      "difficulty": "hidden",
+      "text": "Last week a chatbot told me a shop was open on Sunday and it wasn't, so you can see why I'm nervous.",
+      "synthetic": true
+    },
+    {
+      "id": 29,
+      "answer": 15,
+      "category": "results-and-trust",
+      "difficulty": "direct",
+      "text": "Who else in my line of work have you done this for?",
+      "synthetic": true
+    },
+    {
+      "id": 30,
+      "answer": 15,
+      "category": "results-and-trust",
+      "difficulty": "hidden",
+      "text": "Sounds nice, but everyone's got a slide with a graph going up.",
+      "synthetic": true
+    },
+    {
+      "id": 31,
+      "answer": 16,
+      "category": "data",
+      "difficulty": "direct",
+      "text": "They've got 240 million contacts. What have you got?",
+      "synthetic": true
+    },
+    {
+      "id": 32,
+      "answer": 16,
+      "category": "data",
+      "difficulty": "hidden",
+      "text": "Surely a list that big has everyone I'd ever want to sell to.",
+      "synthetic": true
+    },
+    {
+      "id": 33,
+      "answer": 17,
+      "category": "data",
+      "difficulty": "direct",
+      "text": "If we part ways, what happens to all the leads?",
+      "synthetic": true
+    },
+    {
+      "id": 34,
+      "answer": 17,
+      "category": "data",
+      "difficulty": "hidden",
+      "text": "My last marketing company held my website hostage for 2 months.",
+      "synthetic": true
+    },
+    {
+      "id": 35,
+      "answer": 18,
+      "category": "data",
+      "difficulty": "direct",
+      "text": "We just use a spreadsheet. Shouldn't we get a CRM first?",
+      "synthetic": true
+    },
+    {
+      "id": 36,
+      "answer": 18,
+      "category": "data",
+      "difficulty": "hidden",
+      "text": "Honestly it's all in my inbox and my head at the moment. Is that embarrassing?",
+      "synthetic": true
+    },
+    {
+      "id": 37,
+      "answer": 19,
+      "category": "data",
+      "difficulty": "direct",
+      "text": "Is this allowed? You're not scraping LinkedIn are you?",
+      "synthetic": true
+    },
+    {
+      "id": 38,
+      "answer": 19,
+      "category": "data",
+      "difficulty": "hidden",
+      "text": "A mate of mine got his LinkedIn account restricted using one of these tools.",
+      "synthetic": true
+    },
+    {
+      "id": 39,
+      "answer": 20,
+      "category": "data",
+      "difficulty": "direct",
+      "text": "Are you putting my customer list into an AI model?",
+      "synthetic": true
+    },
+    {
+      "id": 40,
+      "answer": 20,
+      "category": "data",
+      "difficulty": "hidden",
+      "text": "I signed an NDA with my biggest customer, so I'm a bit twitchy about where this goes.",
+      "synthetic": true
+    },
+    {
+      "id": 41,
+      "answer": 21,
+      "category": "switching",
+      "difficulty": "direct",
+      "text": "We're already paying for HubSpot. Why pay for this as well?",
+      "synthetic": true
+    },
+    {
+      "id": 42,
+      "answer": 21,
+      "category": "switching",
+      "difficulty": "hidden",
+      "text": "My finance lead will ask why this isn't covered by the software we've already got.",
+      "synthetic": true
+    },
+    {
+      "id": 43,
+      "answer": 22,
+      "category": "switching",
+      "difficulty": "direct",
+      "text": "We'll be moving to Salesforce at some point, so it seems wasteful to start here.",
+      "synthetic": true
+    },
+    {
+      "id": 44,
+      "answer": 22,
+      "category": "switching",
+      "difficulty": "hidden",
+      "text": "Our investor keeps saying we should get on a proper system before we do anything else.",
+      "synthetic": true
+    },
+    {
+      "id": 45,
+      "answer": 23,
+      "category": "switching",
+      "difficulty": "direct",
+      "text": "Won't AI make this whole service pointless next year?",
+      "synthetic": true
+    },
+    {
+      "id": 46,
+      "answer": 23,
+      "category": "switching",
+      "difficulty": "hidden",
+      "text": "I'd feel daft signing up for something a robot will do for free by summer.",
+      "synthetic": true
+    },
+    {
+      "id": 47,
+      "answer": 24,
+      "category": "switching",
+      "difficulty": "direct",
+      "text": "Let's hold off until the Salesforce agent is out and see what it's like.",
+      "synthetic": true
+    },
+    {
+      "id": 48,
+      "answer": 24,
+      "category": "switching",
+      "difficulty": "hidden",
+      "text": "No rush on our side. Things are moving so fast, let's check back in a couple of months.",
+      "synthetic": true
+    },
+    {
+      "id": 49,
+      "answer": 25,
+      "category": "switching",
+      "difficulty": "direct",
+      "text": "We already tried one of these AI SDR products and it flopped.",
+      "synthetic": true
+    },
+    {
+      "id": 50,
+      "answer": 25,
+      "category": "switching",
+      "difficulty": "hidden",
+      "text": "We paid for 6 months of something similar and all we got was angry replies.",
+      "synthetic": true
+    }
+  ]
+}
